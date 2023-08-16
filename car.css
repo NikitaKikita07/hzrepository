@@ -1,1 +1,39 @@
+body{
+    margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.all{
+    position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.bacrgr{
+    width: 1624px;
+    height: 831px;
+    object-fit: cover;
+    position: absolute;
+   
+    transform: translate(-50%, -50%);
+  }
+  .corobka{
+    display: flex;
+    position: absolute;
+    gap: 15px;
+  }
+
+  
+  .text{
+    color: #FFF;
+font-family: Cormorant SC;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 134.6%; /* 86.144px */
+  }
 
