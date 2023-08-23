@@ -1,6 +1,7 @@
 body{
     margin: 0;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -36,4 +37,59 @@ font-style: normal;
 font-weight: 700;
 line-height: 134.6%; /* 86.144px */
   }
-
+  .t{
+    height: 67px;
+    width: 100%;
+    margin: auto;
+    margin-top: 200px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+body{
+    text-align: center;
+}
+.block{
+    width: 570px;
+    height: 80px;
+    background-color: blue;
+    margin: auto;
+    color: #ffffff;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    display: block;
+}
+.blockye{
+  width: 100%;
+  height: 398px;
+  background-color: #FFE600;
+  margin-top: 100px;
+}
+.t1{
+  width: 590px;
+  height: 65px;
+  font-size: 48px;
+  color: #011aff;
+  margin: auto;
+  margin-top: 30px;
+}
+.tt{
+  color: #ffffff;
+}
+.amail{
+  width: 365px;
+  height: 50px;
+  color: #6A6A6A;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400; 
+  margin: auto;
+}
+.nomer{
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  margin: auto;
+}
