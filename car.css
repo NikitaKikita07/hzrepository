@@ -5,7 +5,20 @@ body{
   justify-content: center;
   align-items: center;
 }
+.ttt{
+  color: #0029FF;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  align-items: center;
+  margin-top: 20px;
+}
+.tt2{
+  color: #FFE600;
+}
 .all{
+  margin-top: 100px;
     position: relative;
   width: 100vw;
   height: 100vh;
